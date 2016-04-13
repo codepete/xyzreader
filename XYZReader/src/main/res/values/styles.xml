@@ -20,13 +20,13 @@
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">#03A9F4</item>
         <item name="colorPrimaryDark">#0288D1</item>
-        <item name="colorAccent">#FFFF00</item>
+        <item name="colorAccent">#7C4DFF</item>
     </style>
 
     <style name="Theme.Bacon.Detail" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">#03A9F4</item>
         <item name="colorPrimaryDark">#0288D1</item>
-        <item name="colorAccent">#FFFF00</item>
+        <item name="colorAccent">#7C4DFF</item>
     </style>
 
 </resources>
